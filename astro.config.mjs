@@ -29,7 +29,7 @@ export default defineConfig({
       ],
       title: "ENGR 103 Engineering Computation and Algorithmic Thinking",
       social: [
-        { icon: "github", label: "GitHub", href: "https://github.com/engr-103-s2026/engr103" },
+        { icon: "github", label: "GitHub", href: "https://github.com/engr-103-s2026/engr-103-s2026.github.io" },
       ],
       lastUpdated: true,
       head: [
