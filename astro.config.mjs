@@ -13,7 +13,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: "https://engr103.mkenison.com",
+  site: "https://engr-103-s2026.github.io",
   integrations: [
     mermaid({
       theme: 'dark',
@@ -24,16 +24,7 @@ export default defineConfig({
       plugins: [
         starlightLinksValidator(),
         starlightPageActions({
-          baseUrl: "https://engr103.mkenison.com",
-          actions: {
-            markdown: false,
-            custom: {
-              grok: {
-                label: "Open in Grok",
-                href: "https://grok.com/?q=",
-              },
-            },
-          },
+          baseUrl: "https://engr-103-s2026.github.io",
         })
       ],
       title: "ENGR 103 Engineering Computation and Algorithmic Thinking",

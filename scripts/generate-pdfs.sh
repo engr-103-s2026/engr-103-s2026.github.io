@@ -16,7 +16,7 @@ TMP_DIR="$PDF_DIR/temp"
 mkdir -p "$TMP_DIR" "$PDF_DIR"
 
 # Base URL for pages
-BASE="https://engr103.mkenison.com"
+BASE="https://engr-103-s2026.github.io"
 
 # Lecture topics
 lectures=(
