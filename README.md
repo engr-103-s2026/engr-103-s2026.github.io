@@ -1,5 +1,6 @@
 # ENGR 103: Engineering Computation and Algorithmic Thinking
 
+
 This repository contains the source code for the ENGR103 website.
 
 ## Instructor Checklist
