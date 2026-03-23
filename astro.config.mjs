@@ -13,7 +13,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: "https://engr103.alexulbrich.com",
+  site: "https://engr103.mkenison.com",
   integrations: [
     mermaid({
       theme: 'dark',
@@ -24,7 +24,7 @@ export default defineConfig({
       plugins: [
         starlightLinksValidator(),
         starlightPageActions({
-          baseUrl: "https://engr103.alexulbrich.com",
+          baseUrl: "https://engr103.mkenison.com",
           actions: {
             markdown: false,
             custom: {
@@ -38,19 +38,10 @@ export default defineConfig({
       ],
       title: "ENGR 103 Engineering Computation and Algorithmic Thinking",
       social: [
-        { icon: "github", label: "GitHub", href: "https://github.com/adulbrich/engr103" },
+        { icon: "github", label: "GitHub", href: "https://github.com/engr-103-s2026/engr103" },
       ],
       lastUpdated: true,
       head: [
-        {
-          tag: "script",
-          attrs: {
-            src: "/knowledge/js/script.outbound-links.js",
-            "data-api": "/knowledge/api/event",
-            "data-domain": "engr103.alexulbrich.com",
-            defer: true,
-          },
-        },
       ],
       sidebar: [
         {
