@@ -154,7 +154,7 @@ You've completed most of this studio, but there's one final step to make future 
 
 3. In a file explorer (e.g., Windows File Explorer or Mac Finder), navigate to the directory where your SSH keys are stored. By default, the  generated keys are named `id_ed25519` and `id_ed25519.pub`. 
 
-    Open the one ending in `.pub` using your text editor of choice (e.g., Notepad). The contents of the file should begin with `ssh-ed25519`. Highlight the entire contents of the file and copy it to your clipboard. For macOS/Linux users, you can use `cat ~/.ssh/id_ed25519.pub` (or the appropriate path) in the terminal to display the key, which is often faster than navigating the file explorer.
+    Open the one ending in `.pub` using your text editor of choice (e.g., Notepad). The contents of the file should begin with `ssh-ed25519`. Highlight the entire contents of the file and copy it to your clipboard. For macOS/Linux users, you can use `cat ~/.ssh/id_ed25519.pub` (or the appropriate path) in the terminal to display the key, which is often faster than navigating the file explorer. On Windows, you can use `notepad .\.ssh\id_ed25519.pub` (or the appropriate path) in the PowerShell terminal to open the file in Notepad. 
 
 4. Open your original terminal session where you're still connected to the ENGR servers. Run the following commands to create and configure the permissions on a `~/.ssh` folder:
 
