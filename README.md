@@ -137,7 +137,56 @@ This project uses `bun` instead of `npm`. Feel free to use `npm`, `pnpm`, or `ya
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
 | `bun install`             | Installs dependencies                            |
-| `bun run dev`             | Starts local dev server at `localhost:4321`      |
+| `<h2 style="border-bottom: 2px solid #dc4405; font-size: 18pt; margin-top: 12px; margin-bottom: 12px;">Introduction</h2>
+<p><span>The purpose of the ENGR+ Professional Development Assignments is to give you a jumpstart on preparing for your future career. To maintain long-term success in your chosen field, ongoing effort must be spent on professional development. As a student, getting involved in additional opportunities at OSU is a great way to develop your technical and professional edge. Professional Development includes career, personal, and professional topics which help advance you as a person and engineer.</span></p>
+<p><span>You are expected to participate in <strong>five</strong> professional development activities, <strong>each worth 5 pts (all together 10% of your total grade)</strong>. There are a wide range of possibilities:</span></p>
+<ul>
+    <li><span><strong>Required Event:<span>&nbsp;</span></strong>Engineering+ Spring Senior Sessions - Week 4 (in-person and asynchronous options)</span></li>
+    <li><span>Club meetings or events</span></li>
+    <li><span>Industry events, conferences or workshops</span></li>
+    <li><span>Webinars or trainings</span></li>
+    <li><span>STEM outreach activities</span></li>
+    <li><span>Seminars or thesis defenses</span></li>
+</ul>
+<p>Some of these events are in-person, and others are virtual. While all of these can be attended live, some of each type will have recordings available afterwards. So, check the event options if your schedule conflicts.&nbsp;</p>
+<p><span>How to find options:</span></p>
+<ol style="list-style-type: decimal;">
+    <li><span>Find events on <a class="inline_disabled" href="https://osu-honors-backend.web.app/" target="_blank" rel="noopener">the OSU Events App</a> marked with the ENGR+ tag, and <a class="inline_disabled" href="https://www.instagram.com/engrstudentlifeosu/" target="_blank" rel="noopener">follow us on Instagram</a> to receive timely updates and information.</span>
+        <ul style="list-style-type: circle;">
+            <li><span>If you don't have a cell phone, you can use the website version, but it lacks significant functionality.&nbsp;</span></li>
+            <li><span>Hint: Filter by the ENGR+ tag, and click on events to see all tags, and learn more.</span></li>
+        </ul>
+    </li>
+    <li aria-level="1">Attend and participate in a club on campus (Some options for clubs can be found at the<span>&nbsp;</span><a class="inline_disabled" href="https://groups.engr.oregonstate.edu/esc/college-engineering-clubs" target="_blank" rel="noopener">College of Engineering Student Council webpaage of student clubs</a>).<span>&nbsp;</span><a class="inline_disabled external" href="https://oregonstate.app.box.com/s/njtrpeka64z4s3ky97qleiqhj23bsl88" target="_blank" rel="noopener"><span>Some clubs have posted introductory videos here</span></a>. You can find other clubs through your own research.
+        <ul data-listchain="__List_Chain_503">
+            <li aria-level="1"><span>Attend a conference or webinar.&nbsp;</span></li>
+            <li><span>Attend an<span>&nbsp;</span><a class="inline_disabled" href="https://clubs.oregonstate.edu/" target="_blank" rel="noopener">OSU club</a><span>&nbsp;</span>meeting or activity; these can be engineering specific or not. If it fits your interest and potentially helps you find your passion and community on campus, it counts!</span>
+                <ul data-listchain="__List_Chain_503">
+                    <li><span><a class="inline_disabled" href="https://groups.engr.oregonstate.edu/esc/college-engineering-clubs" target="_blank" rel="noopener">College of Engineering Student Council webpage of student clubs</a></span></li>
+                    <li><span><span class="ally-file-link-holder link_holder"><span class="instructure_file_holder link_holder instructure_file_link_holder ally-file-link-holder"><a class="inline_disabled preview_in_overlay" title="Active Engineering Clubs .pdf" href="/courses/2042959/files/117524733?wrap=1" target="_blank" rel="noopener" data-canvas-previewable="false" data-id="116801717"><span>Here is a file with a COE club overview</span></a></span></span></span></li>
+                    <li><span><a class="inline_disabled external" title="Link" href="https://oregonstate.app.box.com/s/njtrpeka64z4s3ky97qleiqhj23bsl88" target="_blank" rel="noopener"><span>A folder of introductory videos by COE clubs</span></a><span>&nbsp;</span>(check back for updates).</span></li>
+                </ul>
+            </li>
+            <li aria-level="1"><span>Attend and participate in an opportunity advertised to you by your instructor.</span></li>
+            <li><em>To determine if your event fulfills this assignment, you can always check with your instructor</em></li>
+        </ul>
+    </li>
+    <li><span>Attend a COE or OSU event that fulfills the intent of this assignment; examples are listed above. <em>Not sure? Ask your Instructor or TA.</em></span></li>
+    <li><span>An opportunity shared with you by your instructor.</span></li>
+</ol>
+<h2 style="border-bottom: 2px solid #dc4405; font-size: 18pt; margin-top: 12px; margin-bottom: 12px;">What you must do</h2>
+<ol start="1" data-listchain="__List_Chain_503">
+    <li><span>Choose any one of the possibilities that fits with your schedule from the options above, and that you can complete by the assignment due date.</span></li>
+    <li><span>Participate in the event or activity.&nbsp;</span></li>
+    <li><span>Return to this assignment and answer the questions for attendance credit.<em><span>&nbsp;</span><strong>Answer all questions and make your answers sufficient enough to warrant full credit.<span>&nbsp;</span><em>A good rule of thumb is 2-3 sentences per question.</em></strong></em></span></li>
+    <li><span>(Optional) Look ahead to see upcoming events that you might want to try attend when they occur (in-person or virtually) before the Professional Development Assignments are due.</span></li>
+</ol>
+<div>
+    <h2 style="border-bottom: 2px solid #dc4405; font-size: 18pt; margin-top: 12px; margin-bottom: 12px;">My expectations</h2>
+    <p><span style="font-family: inherit; font-size: 1rem;">1. Spend approximately 45 min - 1 hour on this assignment. For example, 5 minutes is not sufficient and 2 hours is more than need. Answering the assignment questions are part of the time commitment.</span></p>
+    <p><span style="font-family: inherit; font-size: 1rem;">2.&nbsp;</span><span style="font-family: inherit; font-size: 1rem;">Answer all questions and make your answers sufficient to warrant full credit. A good rule of thumb is 2-3 sentences per question.</span></p>
+    <p>&nbsp;</p>
+</div>`             | Starts local dev server at `localhost:4321`      |
 | `bun run build`           | Build your production site to `./dist/`          |
 | `bun run preview`         | Preview your build locally, before deploying     |
 | `bun run astro ...`       | Run CLI commands like `astro add`, `astro check` |
